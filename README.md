@@ -13,6 +13,7 @@ El **Análisis RFM** (Recencia, Frecuencia, Valor Monetario) es una técnica uti
 ---
 ## 🛠️ Metodología
 El análisis se basa en tres métricas clave:
+
 🔹 **Recencia (R):** Cuánto tiempo ha pasado desde la última compra del cliente.
 🔹 **Frecuencia (F):** Cuántas veces ha comprado un cliente en un periodo determinado.
 🔹 **Valor Monetario (M):** Cuánto dinero ha gastado un cliente en total.
